@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Arduino Projects
 - 🤔 I’m looking for help with ... Machine Learning
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... 
+- 📫 How to reach me: ... vincentdjojo#3241 (Discord)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like peanut butter.
 
