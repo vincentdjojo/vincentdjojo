@@ -10,3 +10,4 @@
 - ⚡ Fun fact: ... I like peanut butter.
 
 <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/vincentdjojo/phpDxGEpd.jpeg" width="400">
+<iframe src="https://discordapp.com/widget?id=347703217880170496&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
