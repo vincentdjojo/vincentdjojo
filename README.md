@@ -8,3 +8,7 @@
 - 📫 How to reach me: ... vincentdjojo#3241 (Discord)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like peanut butter.
+
+- <a href = "https://www.chess.com/member/vincentdjojo"> Chess.com </a>
+- <a href = "https://www.facebook.com/official.vincentdjojo/" Facebook </a>
+- <a href = "http://bit.ly/AmbitiousNoobs"> Discord </a>
