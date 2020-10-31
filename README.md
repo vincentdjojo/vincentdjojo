@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... LucentLife, Tap-On and FLU
+- 🔭 Startups I'm working on include ... LucentLife, Tap-On and FLU
 - 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ... Arduino and Raspberry PiProjects 
 - 🤔 I’m looking for help with ... Machine Learning
