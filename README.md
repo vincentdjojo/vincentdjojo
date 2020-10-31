@@ -9,4 +9,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like peanut butter.
 
-![alt text](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/vincentdjojo/phpDxGEpd.jpeg)
+<img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/vincentdjojo/phpDxGEpd.jpeg" width="250">
