@@ -7,7 +7,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... vincentdjojo#3241 (Discord)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I like peanut butter.
+- ⚡ Fun fact: ... I like peanut butter
 
 ### Contact me at: 
 - <a href = "http://bit.ly/AmbitiousNoobs"> Discord </a>
