@@ -2,7 +2,7 @@
 
 - 🔭 Startups I'm working on include ... LucentLife, Tap-On and FLU
 - 🌱 I’m currently learning ... Machine Learning
-- 👯 I’m looking to collaborate on ... Arduino and Raspberry PiProjects 
+- 👯 I’m looking to collaborate on ... Arduino and Raspberry Pi Projects 
 - 🤔 I’m looking for help with ... Machine Learning
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... vincentdjojo#3241 (Discord)
